@@ -16,7 +16,7 @@ osx_build_derived_data
 **.DS_Store
 **.dSYM
 #**.png
-**.PNG
+#**.PNG
 **.jpeg
 **.JPEG
 **.jpg
